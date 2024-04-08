@@ -2,16 +2,16 @@ programa {
   funcao inicio() {
     inteiro num, r
 
-    escreva("digite um número inteiro: ")
+    escreva("digite um nÃºmero inteiro: ")
     leia(num)
 
       r = (num%2)
 
       se(r == 0){
-        escreva("Seu número é par.")
+        escreva("Seu nÃºmero Ã© par.")
       }
       senao{
-        escreva("Seu número é impar.")
+        escreva("Seu nÃºmero Ã© impar.")
       }
     
   }
