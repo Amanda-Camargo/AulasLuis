@@ -4,17 +4,17 @@ programa{
 // Autor :
 // Data : 25/3/2011
 //
-// Este programa atribui um valor em uma variável em função
-// do valor de outra variável
+// Este programa atribui um valor em uma variÃ¡vel em funÃ§Ã£o
+// do valor de outra variÃ¡vel
 //
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 
 real sal, imp
 caracter condic
 
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 
-escreva("Informe o valo do salário:")
+escreva("Informe o valo do salÃ¡rio:")
 leia(sal)
 
 se sal > 2326.01 
