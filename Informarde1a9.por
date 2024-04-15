@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     real n
 
-    escreva("Digite um número: ")
+    escreva("Digite um nÃºmero: ")
     leia(n)
 
     se(n>1 e n<9){
@@ -10,7 +10,7 @@ programa {
     }
 
     senao{
-      escreva("\nO valor não está na faixa permitida, tente outro número.\n")
+      escreva("\nO valor nÃ£o estÃ¡ na faixa permitida, tente outro nÃºmero.\n")
     }
   }
 }
