@@ -22,10 +22,10 @@ programa
             pesoideal = (61.1  * altura) - 44.7 
         }
     
-        escreva("O seu nome é: ", nome )
-        escreva("\nA sua altura é: ", altura)
-        escreva("\nO seu sexo é: ", sexo)
-        escreva("\nO seu peso ideal é: ", pesoideal)
+        escreva("O seu nome Ã©: ", nome )
+        escreva("\nA sua altura Ã©: ", altura)
+        escreva("\nO seu sexo Ã©: ", sexo)
+        escreva("\nO seu peso ideal Ã©: ", pesoideal)
     }
 }
   {
